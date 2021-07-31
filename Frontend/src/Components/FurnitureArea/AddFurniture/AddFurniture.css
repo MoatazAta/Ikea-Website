@@ -1,3 +1,21 @@
-.AddFurniture {
-	
+.AddFurniture > form {
+	width: 300px;
+    margin: auto;
+    text-align: left;
+}
+
+.AddFurniture > form > * {
+    width: 100%;
+    font-size: x-large;
+    box-sizing: border-box;
+}
+
+.AddFurniture input, .AddFurniture select {
+    margin-bottom: 10px;
+}
+
+.AddFurniture span {
+    position: absolute;
+    color: red;
+    margin-left: 10px;
 }
