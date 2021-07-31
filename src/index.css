@@ -1,0 +1,7 @@
+html, body, #root {
+    height: 100%;
+    text-align: center;
+    font-size: x-large;
+    background-image: linear-gradient(darkorange,lightgray);
+    color:white;
+}
